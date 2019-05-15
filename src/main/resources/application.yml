@@ -52,4 +52,4 @@ mybatis:
 
 logging:
     level:
-        com.jae.demo: debug
+        com.jae.demo: info
